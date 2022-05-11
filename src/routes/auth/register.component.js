@@ -1,4 +1,4 @@
-import RegisterForm from '../../components/register-form/register-form.component';
+import RegisterForm from '../../components/register/register-form.component';
 
 import { AuthenticationContainer } from './authentication.styles';
 

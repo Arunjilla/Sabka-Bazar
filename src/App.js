@@ -8,6 +8,10 @@ import Register from './routes/auth/register.component';
 
 const App = () => {
   return (
+
+
+    <>
+    
     <Routes>
       <Route path='/' element={<Navigation />}>
         <Route index element={<Home />} />
@@ -16,7 +20,9 @@ const App = () => {
         <Route path='register' element={<Register />} />
       </Route>
     </Routes>
+    </>
+    
   );
-};
+}
 
 export default App;

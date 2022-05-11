@@ -12,7 +12,7 @@ const Home = () => {
     <div>
       <Banners banners={banners} />
       <Directory categories={categories} />
-      <h1> Heelo React </h1>
+      
     </div>
   );
 };
