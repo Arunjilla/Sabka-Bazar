@@ -12,11 +12,7 @@ const Home = () => {
     <div>
       <Banners banners={banners} />
       <Directory categories={categories} />
-      <ul>
-        <li>
-          Hi  React Developers
-        </li>
-      </ul>
+      
       
     </div>
   );
