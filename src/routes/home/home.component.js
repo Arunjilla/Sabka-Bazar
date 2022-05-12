@@ -12,6 +12,11 @@ const Home = () => {
     <div>
       <Banners banners={banners} />
       <Directory categories={categories} />
+      <ul>
+        <li>
+          Hi 
+        </li>
+      </ul>
       
     </div>
   );
