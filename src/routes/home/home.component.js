@@ -14,7 +14,7 @@ const Home = () => {
       <Directory categories={categories} />
       <ul>
         <li>
-          Hi 
+          Hi  React Developers
         </li>
       </ul>
       
