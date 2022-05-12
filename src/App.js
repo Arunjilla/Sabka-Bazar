@@ -11,7 +11,7 @@ const App = () => {
 
 
     <>
-    
+    <h1>Hello React</h1>
     <Routes>
       <Route path='/' element={<Navigation />}>
         <Route index element={<Home />} />
