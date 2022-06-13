@@ -45,6 +45,7 @@ const RegisterForm = () => {
       <Body>
         <h2>Signup</h2>
         <p>We donot share any personal details with anyone</p>
+        <h1>Arun</h1>
       </Body>
       <form onSubmit={handleSubmit}>
         <FormInput
@@ -94,6 +95,7 @@ const RegisterForm = () => {
         <Button type='submit'>Sign Up</Button>
       </form>
     </SignUpContainer>
+   
   );
 };
 
