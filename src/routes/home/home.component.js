@@ -12,6 +12,7 @@ const Home = () => {
     <div>
       <Banners banners={banners} />
       <Directory categories={categories} />
+      Hi
      
       
       
